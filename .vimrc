@@ -22,3 +22,4 @@ filetype plugin indent on    " required by Vundle
 
 set mouse=a " enable mouse support in all modes
 set tabstop=4
+colo delek " YouCompleteMe suggestions have the same color as their background with the default color scheme. `delek` and `desert` colorschemes fix the issue.
